@@ -32,5 +32,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Emoji Search\r ---",
+  "main": "index.js",
+  "keywords": [],
+  "author": ""
 }
